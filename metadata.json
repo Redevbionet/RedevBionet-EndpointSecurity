@@ -1,0 +1,5 @@
+{
+  "name": "OTX Endpoint Security Scanner",
+  "description": "A web application that simulates scanning an endpoint for cybersecurity threats using OTX (Open Threat Exchange) principles, with threat generation powered by the Gemini API.",
+  "requestFramePermissions": []
+}
